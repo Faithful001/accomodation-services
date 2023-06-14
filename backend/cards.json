@@ -1,0 +1,3479 @@
+{
+   "status": true,
+   "message": "Success",
+   "timestamp": 1683314055343,
+   "data": {
+     "list": [
+       {
+         "listing": {
+           "avgRatingLocalized": "4.85",
+           "avgRatingA11yLabel": "4.85 out of 5 average rating",
+           "city": "Enonkoski",
+           "contextualPictures": [
+             {
+               "id": "248424272",
+               "picture": "https://a0.muscache.com/im/pictures/aab97265-a1e5-464c-bcf2-faffadf6d38f.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "248424210",
+               "picture": "https://a0.muscache.com/im/pictures/ef0c8000-c12e-43db-9d09-1bb6a9f34c87.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "248424239",
+               "picture": "https://a0.muscache.com/im/pictures/80446bd4-670b-44e8-9847-d1e679398b8b.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "5 beds",
+                   "3 bedrooms"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "248424248",
+               "picture": "https://a0.muscache.com/im/pictures/2386b26a-c264-44ab-b596-954eb2752e70.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 bathroom"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "248424254",
+               "picture": "https://a0.muscache.com/im/pictures/ead9bb93-8df9-4599-934a-9f82a86c816c.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "Rated 4.8 out of 5 for cleanliness"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "248424255",
+               "picture": "https://a0.muscache.com/im/pictures/fc2abb8a-f582-4cf3-8283-894068951cf8.jpg?im_w=720",
+               "caption": null
+             }
+           ],
+           "contextualPicturesCount": 24,
+           "contextualPicturesPageInfo": {
+             "hasNextPage": true,
+             "endCursor": "NQ=="
+           },
+           "coordinate": {
+             "longitude": 29.05993,
+             "latitude": 62.04192
+           },
+           "formattedBadges": [],
+           "id": "16552071",
+           "isAutoTranslated": true,
+           "listingObjType": "REGULAR",
+           "localizedCityName": "Enonkoski",
+           "name": "Mountain Lake Cottage",
+           "primaryHostPassport": null,
+           "pdpType": "MARKETPLACE",
+           "roomTypeCategory": "entire_home",
+           "roomTypeId": null,
+           "structuredContent": {
+             "primaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "4,448 miles away",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "secondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "7–12 May",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapPrimaryLine": null,
+             "mapSecondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "7–12 May",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapCategoryInfo": [],
+             "distance": null
+           },
+           "tierId": 0,
+           "title": "Enonkoski, Finland",
+           "titleLocale": "en-GB"
+         },
+         "pricingQuote": {
+           "structuredStayDisplayPrice": {
+             "primaryLine": {
+               "accessibilityLabel": "$1,162 total",
+               "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+               "concatQualifierLeft": false,
+               "price": "$1,162",
+               "qualifier": "total",
+               "trailingContent": null,
+               "shortQualifier": "total"
+             },
+             "secondaryLine": null,
+             "explanationData": {
+               "title": "Price breakdown",
+               "priceDetails": [
+                 {
+                   "items": [
+                     {
+                       "description": "$181 x 5 nights",
+                       "priceString": "$906"
+                     },
+                     {
+                       "description": "Cleaning fee",
+                       "priceString": "$88"
+                     },
+                     {
+                       "description": "Airbnb service fee",
+                       "priceString": "$168"
+                     }
+                   ],
+                   "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                   "shouldRenderTopBorder": false
+                 }
+               ]
+             },
+             "explanationDataDisplayPosition": "PRIMARY_LINE"
+           }
+         },
+         "listingParamOverrides": {
+           "adults": 1,
+           "children": 0,
+           "infants": 0,
+           "checkin": "2023-05-07",
+           "checkout": "2023-05-12",
+           "causeId": null,
+           "relaxedAmenityIds": null,
+           "categoryTag": null,
+           "pets": 0,
+           "splitStaysUuid": null,
+           "highlightType": null,
+           "enableM3PrivateRoom": false
+         }
+       },
+       {
+         "listing": {
+           "avgRatingLocalized": "4.91",
+           "avgRatingA11yLabel": "4.91 out of 5 average rating",
+           "city": "Holbæk",
+           "contextualPictures": [
+             {
+               "id": "1194253770",
+               "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-14393977/original/c4ae9b1f-0945-4b6b-b769-6cab5cf87768.jpeg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "1194258263",
+               "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-14393977/original/955e3761-9294-4e5b-ab36-2f4c0355240d.jpeg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "1083953685",
+               "picture": "https://a0.muscache.com/im/pictures/a348dd7f-b254-4d84-ad28-ebf2ccde2563.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "8 beds",
+                   "3 bedrooms"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1080771523",
+               "picture": "https://a0.muscache.com/im/pictures/e31890a3-7c8c-4fb8-ac09-f9b8a857d4ae.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 bathroom"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1080771490",
+               "picture": "https://a0.muscache.com/im/pictures/ba1ea453-505c-45e5-ad9c-afc0aef41149.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 queen bed",
+                   "2 double beds",
+                   "more"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1194258872",
+               "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-14393977/original/f65e70aa-ce33-4a8f-8a36-cb7a9ffe49ea.jpeg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "Rated 4.9 out of 5 for cleanliness"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             }
+           ],
+           "contextualPicturesCount": 30,
+           "contextualPicturesPageInfo": {
+             "hasNextPage": true,
+             "endCursor": "NQ=="
+           },
+           "coordinate": {
+             "longitude": 11.73736,
+             "latitude": 55.76347
+           },
+           "formattedBadges": [],
+           "id": "14393977",
+           "isAutoTranslated": false,
+           "listingObjType": "REGULAR",
+           "localizedCityName": "Holbæk",
+           "name": "Ziestha Hytten -  Plenty of room.",
+           "primaryHostPassport": null,
+           "pdpType": "MARKETPLACE",
+           "roomTypeCategory": "entire_home",
+           "roomTypeId": null,
+           "structuredContent": {
+             "primaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "4,167 miles away",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "secondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "15–20 May",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapPrimaryLine": null,
+             "mapSecondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "15–20 May",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapCategoryInfo": [],
+             "distance": null
+           },
+           "tierId": 0,
+           "title": "Holbæk, Denmark",
+           "titleLocale": "en"
+         },
+         "pricingQuote": {
+           "structuredStayDisplayPrice": {
+             "primaryLine": {
+               "accessibilityLabel": "$2,172 total",
+               "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+               "concatQualifierLeft": false,
+               "price": "$2,172",
+               "qualifier": "total",
+               "trailingContent": null,
+               "shortQualifier": "total"
+             },
+             "secondaryLine": null,
+             "explanationData": {
+               "title": "Price breakdown",
+               "priceDetails": [
+                 {
+                   "items": [
+                     {
+                       "description": "$322 x 5 nights",
+                       "priceString": "$1,612"
+                     },
+                     {
+                       "description": "Cleaning fee",
+                       "priceString": "$245"
+                     },
+                     {
+                       "description": "Airbnb service fee",
+                       "priceString": "$315"
+                     }
+                   ],
+                   "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                   "shouldRenderTopBorder": false
+                 }
+               ]
+             },
+             "explanationDataDisplayPosition": "PRIMARY_LINE"
+           }
+         },
+         "listingParamOverrides": {
+           "adults": 1,
+           "children": 0,
+           "infants": 0,
+           "checkin": "2023-05-15",
+           "checkout": "2023-05-20",
+           "causeId": null,
+           "relaxedAmenityIds": null,
+           "categoryTag": null,
+           "pets": 0,
+           "splitStaysUuid": null,
+           "highlightType": null,
+           "enableM3PrivateRoom": false
+         }
+       },
+       {
+         "listing": {
+           "avgRatingLocalized": "4.95",
+           "avgRatingA11yLabel": "4.95 out of 5 average rating",
+           "city": "Ålbæk",
+           "contextualPictures": [
+             {
+               "id": "801160662",
+               "picture": "https://a0.muscache.com/im/pictures/3521087c-1cfa-4825-b24e-5526b1e1d37b.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "1179399839",
+               "picture": "https://a0.muscache.com/im/pictures/544d21bc-6c3c-49e6-814b-0d7f545beda6.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "801160375",
+               "picture": "https://a0.muscache.com/im/pictures/27fbe1f5-65a5-49e6-9eec-1b9de84b8b61.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "2 beds",
+                   "1 bedroom"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "801160527",
+               "picture": "https://a0.muscache.com/im/pictures/b802987a-5d38-48c7-995f-2c917c987729.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 bathroom"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "801160579",
+               "picture": "https://a0.muscache.com/im/pictures/d8c5dc2a-20b7-4b61-9489-74cfda0cdaa9.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "2 double beds"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "801160613",
+               "picture": "https://a0.muscache.com/im/pictures/4a189ddb-1244-4f6b-994a-5c7f6f1f3037.jpg?im_w=720",
+               "caption": null
+             }
+           ],
+           "contextualPicturesCount": 14,
+           "contextualPicturesPageInfo": {
+             "hasNextPage": true,
+             "endCursor": "NQ=="
+           },
+           "coordinate": {
+             "longitude": 10.37844,
+             "latitude": 57.61692
+           },
+           "formattedBadges": [],
+           "id": "36468273",
+           "isAutoTranslated": true,
+           "listingObjType": "REGULAR",
+           "localizedCityName": "Ålbæk",
+           "name": "Idyllic forest summerhouse only 22 km from skagen",
+           "primaryHostPassport": null,
+           "pdpType": "MARKETPLACE",
+           "roomTypeCategory": "entire_home",
+           "roomTypeId": null,
+           "structuredContent": {
+             "primaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "4,062 miles away",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "secondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "8–13 May",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapPrimaryLine": null,
+             "mapSecondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "8–13 May",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapCategoryInfo": [],
+             "distance": null
+           },
+           "tierId": 0,
+           "title": "Ålbæk, Denmark",
+           "titleLocale": "en-GB"
+         },
+         "pricingQuote": {
+           "structuredStayDisplayPrice": {
+             "primaryLine": {
+               "accessibilityLabel": "$615 total",
+               "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+               "concatQualifierLeft": false,
+               "price": "$615",
+               "qualifier": "total",
+               "trailingContent": null,
+               "shortQualifier": "total"
+             },
+             "secondaryLine": null,
+             "explanationData": {
+               "title": "Price breakdown",
+               "priceDetails": [
+                 {
+                   "items": [
+                     {
+                       "description": "$96 x 5 nights",
+                       "priceString": "$482"
+                     },
+                     {
+                       "description": "Cleaning fee",
+                       "priceString": "$44"
+                     },
+                     {
+                       "description": "Airbnb service fee",
+                       "priceString": "$89"
+                     }
+                   ],
+                   "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                   "shouldRenderTopBorder": false
+                 }
+               ]
+             },
+             "explanationDataDisplayPosition": "PRIMARY_LINE"
+           }
+         },
+         "listingParamOverrides": {
+           "adults": 1,
+           "children": 0,
+           "infants": 0,
+           "checkin": "2023-05-08",
+           "checkout": "2023-05-13",
+           "causeId": null,
+           "relaxedAmenityIds": null,
+           "categoryTag": null,
+           "pets": 0,
+           "splitStaysUuid": null,
+           "highlightType": null,
+           "enableM3PrivateRoom": false
+         }
+       },
+       {
+         "listing": {
+           "avgRatingLocalized": "4.74",
+           "avgRatingA11yLabel": "4.74 out of 5 average rating",
+           "city": "Wychodne",
+           "contextualPictures": [
+             {
+               "id": "1175191784",
+               "picture": "https://a0.muscache.com/im/pictures/3a5a705d-af79-4ae3-8997-de37198b014b.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "1175191743",
+               "picture": "https://a0.muscache.com/im/pictures/e5f1fd6e-cf48-457a-9ce2-8d701990fdf7.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "1175191757",
+               "picture": "https://a0.muscache.com/im/pictures/de62f2d3-5901-46b6-8e51-ba39a0582122.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "2 beds",
+                   "Studio"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1454612081",
+               "picture": "https://a0.muscache.com/im/pictures/f9a19aba-3dc8-4141-9b40-fb5987669640.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 bathroom"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1390752435",
+               "picture": "https://a0.muscache.com/im/pictures/8920865b-d2e0-4157-91e1-ba5081705d3f.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "1454609939",
+               "picture": "https://a0.muscache.com/im/pictures/ff422338-4ff9-4d9a-9b6e-aac1aceaf587.jpg?im_w=720",
+               "caption": null
+             }
+           ],
+           "contextualPicturesCount": 30,
+           "contextualPicturesPageInfo": {
+             "hasNextPage": true,
+             "endCursor": "NQ=="
+           },
+           "coordinate": {
+             "longitude": 22.83506,
+             "latitude": 54.07704
+           },
+           "formattedBadges": [],
+           "id": "49662898",
+           "isAutoTranslated": false,
+           "listingObjType": "REGULAR",
+           "localizedCityName": "Wychodne",
+           "name": "Domek na drzewie wśród zwierząt",
+           "primaryHostPassport": null,
+           "pdpType": "MARKETPLACE",
+           "roomTypeCategory": "entire_home",
+           "roomTypeId": null,
+           "structuredContent": {
+             "primaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "4,600 miles away",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "secondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "27 Aug – 1 Sept",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapPrimaryLine": null,
+             "mapSecondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "27 Aug – 1 Sept",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapCategoryInfo": [],
+             "distance": null
+           },
+           "tierId": 0,
+           "title": "Wychodne, Poland",
+           "titleLocale": "pl"
+         },
+         "pricingQuote": {
+           "structuredStayDisplayPrice": {
+             "primaryLine": {
+               "accessibilityLabel": "$230 total",
+               "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+               "concatQualifierLeft": false,
+               "price": "$230",
+               "qualifier": "total",
+               "trailingContent": null,
+               "shortQualifier": "total"
+             },
+             "secondaryLine": null,
+             "explanationData": {
+               "title": "Price breakdown",
+               "priceDetails": [
+                 {
+                   "items": [
+                     {
+                       "description": "$37 x 5 nights",
+                       "priceString": "$183"
+                     },
+                     {
+                       "description": "Cleaning fee",
+                       "priceString": "$14"
+                     },
+                     {
+                       "description": "Airbnb service fee",
+                       "priceString": "$33"
+                     }
+                   ],
+                   "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                   "shouldRenderTopBorder": false
+                 }
+               ]
+             },
+             "explanationDataDisplayPosition": "PRIMARY_LINE"
+           }
+         },
+         "listingParamOverrides": {
+           "adults": 1,
+           "children": 0,
+           "infants": 0,
+           "checkin": "2023-08-27",
+           "checkout": "2023-09-01",
+           "causeId": null,
+           "relaxedAmenityIds": null,
+           "categoryTag": null,
+           "pets": 0,
+           "splitStaysUuid": null,
+           "highlightType": null,
+           "enableM3PrivateRoom": false
+         }
+       },
+       {
+         "listing": {
+           "avgRatingLocalized": "4.91",
+           "avgRatingA11yLabel": "4.91 out of 5 average rating",
+           "city": "Gildeskål",
+           "contextualPictures": [
+             {
+               "id": "984689653",
+               "picture": "https://a0.muscache.com/im/pictures/df9a063b-a29e-47fc-bebe-545ecbc6708f.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "982287794",
+               "picture": "https://a0.muscache.com/im/pictures/b3bd4117-a583-4868-978a-a2a408c11191.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "984706891",
+               "picture": "https://a0.muscache.com/im/pictures/1073889a-f424-4254-9d57-32fb7baab653.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "2 beds",
+                   "1 bedroom"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "982287634",
+               "picture": "https://a0.muscache.com/im/pictures/e521c690-e4ec-4052-b3ca-7f77a60b3cad.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1.5 shared bathrooms"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "982287631",
+               "picture": "https://a0.muscache.com/im/pictures/1c355018-8145-4ff1-9e2a-1d3abb32342f.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "2 single beds"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "982287587",
+               "picture": "https://a0.muscache.com/im/pictures/f8bafc3f-e0cf-4d02-9234-47182438d74b.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "Rated 4.7 out of 5 for cleanliness"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             }
+           ],
+           "contextualPicturesCount": 30,
+           "contextualPicturesPageInfo": {
+             "hasNextPage": true,
+             "endCursor": "NQ=="
+           },
+           "coordinate": {
+             "longitude": 13.76662,
+             "latitude": 67.1608
+           },
+           "formattedBadges": [],
+           "id": "42770001",
+           "isAutoTranslated": false,
+           "listingObjType": "REGULAR",
+           "localizedCityName": "Gildeskål",
+           "name": "The Arctic Hideaway - Whale scouters cabin",
+           "primaryHostPassport": null,
+           "pdpType": "MARKETPLACE",
+           "roomTypeCategory": "private_room",
+           "roomTypeId": null,
+           "structuredContent": {
+             "primaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "3,880 miles away",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "secondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "18–23 Jun",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapPrimaryLine": null,
+             "mapSecondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "18–23 Jun",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapCategoryInfo": [],
+             "distance": null
+           },
+           "tierId": 0,
+           "title": "Gildeskål, Norway",
+           "titleLocale": "en"
+         },
+         "pricingQuote": {
+           "structuredStayDisplayPrice": {
+             "primaryLine": {
+               "accessibilityLabel": "$1,096 total",
+               "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+               "concatQualifierLeft": false,
+               "price": "$1,096",
+               "qualifier": "total",
+               "trailingContent": null,
+               "shortQualifier": "total"
+             },
+             "secondaryLine": null,
+             "explanationData": {
+               "title": "Price breakdown",
+               "priceDetails": [
+                 {
+                   "items": [
+                     {
+                       "description": "$168 x 5 nights",
+                       "priceString": "$841"
+                     },
+                     {
+                       "description": "Cleaning fee",
+                       "priceString": "$9"
+                     },
+                     {
+                       "description": "Airbnb service fee",
+                       "priceString": "$144"
+                     },
+                     {
+                       "description": "Taxes",
+                       "priceString": "$102"
+                     }
+                   ],
+                   "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                   "shouldRenderTopBorder": false
+                 }
+               ]
+             },
+             "explanationDataDisplayPosition": "PRIMARY_LINE"
+           }
+         },
+         "listingParamOverrides": {
+           "adults": 1,
+           "children": 0,
+           "infants": 0,
+           "checkin": "2023-06-18",
+           "checkout": "2023-06-23",
+           "causeId": null,
+           "relaxedAmenityIds": null,
+           "categoryTag": null,
+           "pets": 0,
+           "splitStaysUuid": null,
+           "highlightType": null,
+           "enableM3PrivateRoom": false
+         }
+       },
+       {
+         "listing": {
+           "avgRatingLocalized": "4.92",
+           "avgRatingA11yLabel": "4.92 out of 5 average rating",
+           "city": " Tinn Austbygd",
+           "contextualPictures": [
+             {
+               "id": "800873453",
+               "picture": "https://a0.muscache.com/im/pictures/f92763a5-4766-4521-8fa7-ff4943ccb74f.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "582662043",
+               "picture": "https://a0.muscache.com/im/pictures/5758245f-6b05-4095-b1af-7edb316c80af.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "3 beds",
+                   "Studio"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "801607144",
+               "picture": "https://a0.muscache.com/im/pictures/2dd4132f-ab48-4d1c-b237-52861207cce6.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 bathroom"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "800870243",
+               "picture": "https://a0.muscache.com/im/pictures/3162ff6a-af8f-46ea-a869-d7d088e0afd2.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "Rated 4.8 out of 5 for cleanliness"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "801606065",
+               "picture": "https://a0.muscache.com/im/pictures/06446812-8e26-4e94-9ca7-1f59939668ca.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "801606064",
+               "picture": "https://a0.muscache.com/im/pictures/b8b80a3c-e61c-4f97-96f9-1f2d2eaf3a41.jpg?im_w=720",
+               "caption": null
+             }
+           ],
+           "contextualPicturesCount": 30,
+           "contextualPicturesPageInfo": {
+             "hasNextPage": true,
+             "endCursor": "NQ=="
+           },
+           "coordinate": {
+             "longitude": 8.75413,
+             "latitude": 60.09942
+           },
+           "formattedBadges": [],
+           "id": "14032398",
+           "isAutoTranslated": false,
+           "listingObjType": "REGULAR",
+           "localizedCityName": " Tinn Austbygd",
+           "name": "Å Auge - River Eye - Treehouse",
+           "primaryHostPassport": null,
+           "pdpType": "MARKETPLACE",
+           "roomTypeCategory": "entire_home",
+           "roomTypeId": null,
+           "structuredContent": {
+             "primaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "3,936 miles away",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "secondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "23–28 Jun",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapPrimaryLine": null,
+             "mapSecondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "23–28 Jun",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapCategoryInfo": [],
+             "distance": null
+           },
+           "tierId": 0,
+           "title": " Tinn Austbygd, Norway",
+           "titleLocale": "en"
+         },
+         "pricingQuote": {
+           "structuredStayDisplayPrice": {
+             "primaryLine": {
+               "accessibilityLabel": "$2,342 total",
+               "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+               "concatQualifierLeft": false,
+               "price": "$2,342",
+               "qualifier": "total",
+               "trailingContent": null,
+               "shortQualifier": "total"
+             },
+             "secondaryLine": null,
+             "explanationData": {
+               "title": "Price breakdown",
+               "priceDetails": [
+                 {
+                   "items": [
+                     {
+                       "description": "$392 x 5 nights",
+                       "priceString": "$1,961"
+                     },
+                     {
+                       "description": "Cleaning fee",
+                       "priceString": "$42"
+                     },
+                     {
+                       "description": "Airbnb service fee",
+                       "priceString": "$339"
+                     }
+                   ],
+                   "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                   "shouldRenderTopBorder": false
+                 }
+               ]
+             },
+             "explanationDataDisplayPosition": "PRIMARY_LINE"
+           }
+         },
+         "listingParamOverrides": {
+           "adults": 1,
+           "children": 0,
+           "infants": 0,
+           "checkin": "2023-06-23",
+           "checkout": "2023-06-28",
+           "causeId": null,
+           "relaxedAmenityIds": null,
+           "categoryTag": null,
+           "pets": 0,
+           "splitStaysUuid": null,
+           "highlightType": null,
+           "enableM3PrivateRoom": false
+         }
+       },
+       {
+         "listing": {
+           "avgRatingLocalized": "4.89",
+           "avgRatingA11yLabel": "4.89 out of 5 average rating",
+           "city": "Salangen",
+           "contextualPictures": [
+             {
+               "id": "277275897",
+               "picture": "https://a0.muscache.com/im/pictures/21f24e32-3502-427a-92f5-e16c1b7798d2.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "247115948",
+               "picture": "https://a0.muscache.com/im/pictures/74871ce2-bd2d-4c6e-84f1-e068e8b72e01.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "340037277",
+               "picture": "https://a0.muscache.com/im/pictures/fa575ea7-5011-45c5-86ad-6291305e466c.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "3 beds",
+                   "3 bedrooms"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "356120330",
+               "picture": "https://a0.muscache.com/im/pictures/3f8d7596-9a41-4d4f-9087-598f928f554c.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 bathroom"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "179926143",
+               "picture": "https://a0.muscache.com/im/pictures/853984d8-90cf-466b-96b1-dea969d6253f.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 queen bed",
+                   "1 double bed",
+                   "more"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "356121287",
+               "picture": "https://a0.muscache.com/im/pictures/0640f99d-ca82-4d63-aa6f-88f928ad1050.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "Rated 4.9 out of 5 for cleanliness"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             }
+           ],
+           "contextualPicturesCount": 30,
+           "contextualPicturesPageInfo": {
+             "hasNextPage": true,
+             "endCursor": "NQ=="
+           },
+           "coordinate": {
+             "longitude": 17.83989,
+             "latitude": 68.8764
+           },
+           "formattedBadges": [],
+           "id": "13636666",
+           "isAutoTranslated": false,
+           "listingObjType": "REGULAR",
+           "localizedCityName": "Salangen",
+           "name": "Villa Hegge - Design Cabin with fab view",
+           "primaryHostPassport": null,
+           "pdpType": "MARKETPLACE",
+           "roomTypeCategory": "entire_home",
+           "roomTypeId": null,
+           "structuredContent": {
+             "primaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "3,926 miles away",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "secondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "13–18 May",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapPrimaryLine": null,
+             "mapSecondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "13–18 May",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapCategoryInfo": [],
+             "distance": null
+           },
+           "tierId": 0,
+           "title": "Salangen, Norway",
+           "titleLocale": "en"
+         },
+         "pricingQuote": {
+           "structuredStayDisplayPrice": {
+             "primaryLine": {
+               "accessibilityLabel": "$688 total",
+               "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+               "concatQualifierLeft": false,
+               "price": "$688",
+               "qualifier": "total",
+               "trailingContent": null,
+               "shortQualifier": "total"
+             },
+             "secondaryLine": null,
+             "explanationData": {
+               "title": "Price breakdown",
+               "priceDetails": [
+                 {
+                   "items": [
+                     {
+                       "description": "$101 x 5 nights",
+                       "priceString": "$504"
+                     },
+                     {
+                       "description": "Cleaning fee",
+                       "priceString": "$84"
+                     },
+                     {
+                       "description": "Airbnb service fee",
+                       "priceString": "$100"
+                     }
+                   ],
+                   "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                   "shouldRenderTopBorder": false
+                 }
+               ]
+             },
+             "explanationDataDisplayPosition": "PRIMARY_LINE"
+           }
+         },
+         "listingParamOverrides": {
+           "adults": 1,
+           "children": 0,
+           "infants": 0,
+           "checkin": "2023-05-13",
+           "checkout": "2023-05-18",
+           "causeId": null,
+           "relaxedAmenityIds": null,
+           "categoryTag": null,
+           "pets": 0,
+           "splitStaysUuid": null,
+           "highlightType": null,
+           "enableM3PrivateRoom": false
+         }
+       },
+       {
+         "listing": {
+           "avgRatingLocalized": "4.95",
+           "avgRatingA11yLabel": "4.95 out of 5 average rating",
+           "city": "Modum",
+           "contextualPictures": [
+             {
+               "id": "1197361037",
+               "picture": "https://a0.muscache.com/im/pictures/3c583b6b-b6ae-44a7-accb-aa4097be3b44.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "1200452160",
+               "picture": "https://a0.muscache.com/im/pictures/e316ecdb-ab7f-4f05-9edf-cb10ec6174f2.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "3 beds",
+                   "2 bedrooms"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1021354875",
+               "picture": "https://a0.muscache.com/im/pictures/4ff3de52-fe64-4ecc-908c-41740ce5931b.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "0 bathrooms"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1143919631",
+               "picture": "https://a0.muscache.com/im/pictures/9fe63cc7-b05f-4e89-82dc-24572cc20480.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 sofa bed",
+                   "1 bunk bed"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1200455849",
+               "picture": "https://a0.muscache.com/im/pictures/dd729530-a550-4aa3-949d-bd09fddfa950.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "Rated 4.9 out of 5 for cleanliness"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1071351838",
+               "picture": "https://a0.muscache.com/im/pictures/26e13cf9-1b7e-450f-a9d0-8a3cecb678dc.jpg?im_w=720",
+               "caption": null
+             }
+           ],
+           "contextualPicturesCount": 19,
+           "contextualPicturesPageInfo": {
+             "hasNextPage": true,
+             "endCursor": "NQ=="
+           },
+           "coordinate": {
+             "longitude": 10.05816,
+             "latitude": 59.94069
+           },
+           "formattedBadges": [],
+           "id": "43838955",
+           "isAutoTranslated": true,
+           "listingObjType": "REGULAR",
+           "localizedCityName": "Modum",
+           "name": "Cottage on Åsen",
+           "primaryHostPassport": null,
+           "pdpType": "MARKETPLACE",
+           "roomTypeCategory": "entire_home",
+           "roomTypeId": null,
+           "structuredContent": {
+             "primaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "3,982 miles away",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "secondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "16–21 Aug",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapPrimaryLine": null,
+             "mapSecondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "16–21 Aug",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapCategoryInfo": [],
+             "distance": null
+           },
+           "tierId": 0,
+           "title": "Modum, Norway",
+           "titleLocale": "en-GB"
+         },
+         "pricingQuote": {
+           "structuredStayDisplayPrice": {
+             "primaryLine": {
+               "accessibilityLabel": "$350 total",
+               "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+               "concatQualifierLeft": false,
+               "price": "$350",
+               "qualifier": "total",
+               "trailingContent": null,
+               "shortQualifier": "total"
+             },
+             "secondaryLine": null,
+             "explanationData": {
+               "title": "Price breakdown",
+               "priceDetails": [
+                 {
+                   "items": [
+                     {
+                       "description": "$56 x 5 nights",
+                       "priceString": "$280"
+                     },
+                     {
+                       "description": "Cleaning fee",
+                       "priceString": "$19"
+                     },
+                     {
+                       "description": "Airbnb service fee",
+                       "priceString": "$51"
+                     }
+                   ],
+                   "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                   "shouldRenderTopBorder": false
+                 }
+               ]
+             },
+             "explanationDataDisplayPosition": "PRIMARY_LINE"
+           }
+         },
+         "listingParamOverrides": {
+           "adults": 1,
+           "children": 0,
+           "infants": 0,
+           "checkin": "2023-08-16",
+           "checkout": "2023-08-21",
+           "causeId": null,
+           "relaxedAmenityIds": null,
+           "categoryTag": null,
+           "pets": 0,
+           "splitStaysUuid": null,
+           "highlightType": null,
+           "enableM3PrivateRoom": false
+         }
+       },
+       {
+         "listing": {
+           "avgRatingLocalized": "4.95",
+           "avgRatingA11yLabel": "4.95 out of 5 average rating",
+           "city": "Oslo",
+           "contextualPictures": [
+             {
+               "id": "49607768",
+               "picture": "https://a0.muscache.com/im/pictures/89158771/6977c664_original.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "49607769",
+               "picture": "https://a0.muscache.com/im/pictures/89158783/4c48c9aa_original.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "2 beds",
+                   "1 bedroom"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "49607770",
+               "picture": "https://a0.muscache.com/im/pictures/89158795/aea5ec53_original.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 bathroom"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "49607771",
+               "picture": "https://a0.muscache.com/im/pictures/89158806/5f4501db_original.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "2 single beds"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "49607779",
+               "picture": "https://a0.muscache.com/im/pictures/89158877/0d16cdb7_original.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "Rated 5 out of 5 for cleanliness"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "49607772",
+               "picture": "https://a0.muscache.com/im/pictures/89158816/a57dcf33_original.jpg?im_w=720",
+               "caption": null
+             }
+           ],
+           "contextualPicturesCount": 24,
+           "contextualPicturesPageInfo": {
+             "hasNextPage": true,
+             "endCursor": "NQ=="
+           },
+           "coordinate": {
+             "longitude": 10.64937,
+             "latitude": 59.97131
+           },
+           "formattedBadges": [],
+           "id": "7030545",
+           "isAutoTranslated": false,
+           "listingObjType": "REGULAR",
+           "localizedCityName": "Oslo",
+           "name": "Charming Small house Holmenkollen",
+           "primaryHostPassport": null,
+           "pdpType": "MARKETPLACE",
+           "roomTypeCategory": "entire_home",
+           "roomTypeId": null,
+           "structuredContent": {
+             "primaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "3,999 miles away",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "secondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "28 Sept – 3 Oct",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapPrimaryLine": null,
+             "mapSecondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "28 Sept – 3 Oct",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapCategoryInfo": [],
+             "distance": null
+           },
+           "tierId": 0,
+           "title": "Oslo, Norway",
+           "titleLocale": "en"
+         },
+         "pricingQuote": {
+           "structuredStayDisplayPrice": {
+             "primaryLine": {
+               "accessibilityLabel": "$590 total",
+               "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+               "concatQualifierLeft": false,
+               "price": "$590",
+               "qualifier": "total",
+               "trailingContent": null,
+               "shortQualifier": "total"
+             },
+             "secondaryLine": null,
+             "explanationData": {
+               "title": "Price breakdown",
+               "priceDetails": [
+                 {
+                   "items": [
+                     {
+                       "description": "$89 x 5 nights",
+                       "priceString": "$444"
+                     },
+                     {
+                       "description": "Cleaning fee",
+                       "priceString": "$61"
+                     },
+                     {
+                       "description": "Airbnb service fee",
+                       "priceString": "$85"
+                     }
+                   ],
+                   "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                   "shouldRenderTopBorder": false
+                 }
+               ]
+             },
+             "explanationDataDisplayPosition": "PRIMARY_LINE"
+           }
+         },
+         "listingParamOverrides": {
+           "adults": 1,
+           "children": 0,
+           "infants": 0,
+           "checkin": "2023-09-28",
+           "checkout": "2023-10-03",
+           "causeId": null,
+           "relaxedAmenityIds": null,
+           "categoryTag": null,
+           "pets": 0,
+           "splitStaysUuid": null,
+           "highlightType": null,
+           "enableM3PrivateRoom": false
+         }
+       },
+       {
+         "listing": {
+           "avgRatingLocalized": "4.87",
+           "avgRatingA11yLabel": "4.87 out of 5 average rating",
+           "city": "Ivalo",
+           "contextualPictures": [
+             {
+               "id": "592836549",
+               "picture": "https://a0.muscache.com/im/pictures/8c7fefb3-51e6-40e2-ac38-9b1fdb8b5c0c.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "592840652",
+               "picture": "https://a0.muscache.com/im/pictures/1cb92bcd-0bd7-45b9-b3bd-37393f7d8922.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "592836519",
+               "picture": "https://a0.muscache.com/im/pictures/d3967d05-edfb-46be-b0f5-a627cb269588.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "7 beds",
+                   "1 bedroom"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1038328057",
+               "picture": "https://a0.muscache.com/im/pictures/91d40c59-fb1d-4b86-a365-5c38a7e82da9.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 sofa bed"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1038326897",
+               "picture": "https://a0.muscache.com/im/pictures/3a005399-073b-4014-bfb9-8ae9ef49d1de.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "Rated 4.7 out of 5 for cleanliness"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1038319480",
+               "picture": "https://a0.muscache.com/im/pictures/23e6aebf-8a1c-4480-b224-5ff0cff4178d.jpg?im_w=720",
+               "caption": null
+             }
+           ],
+           "contextualPicturesCount": 30,
+           "contextualPicturesPageInfo": {
+             "hasNextPage": true,
+             "endCursor": "NQ=="
+           },
+           "coordinate": {
+             "longitude": 27.54184,
+             "latitude": 68.66053
+           },
+           "formattedBadges": [],
+           "id": "29083880",
+           "isAutoTranslated": false,
+           "listingObjType": "REGULAR",
+           "localizedCityName": "Ivalo",
+           "name": "Lovers Lake Retreat - Lempilampi",
+           "primaryHostPassport": null,
+           "pdpType": "MARKETPLACE",
+           "roomTypeCategory": "entire_home",
+           "roomTypeId": null,
+           "structuredContent": {
+             "primaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "4,144 miles away",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "secondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "1–6 Jun",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapPrimaryLine": null,
+             "mapSecondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "1–6 Jun",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapCategoryInfo": [],
+             "distance": null
+           },
+           "tierId": 0,
+           "title": "Ivalo, Finland",
+           "titleLocale": "en"
+         },
+         "pricingQuote": {
+           "structuredStayDisplayPrice": {
+             "primaryLine": {
+               "accessibilityLabel": "$770 total",
+               "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+               "concatQualifierLeft": false,
+               "price": "$770",
+               "qualifier": "total",
+               "trailingContent": null,
+               "shortQualifier": "total"
+             },
+             "secondaryLine": null,
+             "explanationData": {
+               "title": "Price breakdown",
+               "priceDetails": [
+                 {
+                   "items": [
+                     {
+                       "description": "$132 x 5 nights",
+                       "priceString": "$658"
+                     },
+                     {
+                       "description": "Airbnb service fee",
+                       "priceString": "$112"
+                     }
+                   ],
+                   "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                   "shouldRenderTopBorder": false
+                 }
+               ]
+             },
+             "explanationDataDisplayPosition": "PRIMARY_LINE"
+           }
+         },
+         "listingParamOverrides": {
+           "adults": 1,
+           "children": 0,
+           "infants": 0,
+           "checkin": "2023-06-01",
+           "checkout": "2023-06-06",
+           "causeId": null,
+           "relaxedAmenityIds": null,
+           "categoryTag": null,
+           "pets": 0,
+           "splitStaysUuid": null,
+           "highlightType": null,
+           "enableM3PrivateRoom": false
+         }
+       },
+       {
+         "listing": {
+           "avgRatingLocalized": "4.93",
+           "avgRatingA11yLabel": "4.93 out of 5 average rating",
+           "city": "Rättvik V",
+           "contextualPictures": [
+             {
+               "id": "1253912406",
+               "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-43635072/original/c9cdfbd4-8460-49fd-a1dc-e831f5391a59.jpeg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "1019211043",
+               "picture": "https://a0.muscache.com/im/pictures/b4ebf9bd-93ed-421d-ad73-0cc5c48316d1.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "1019222330",
+               "picture": "https://a0.muscache.com/im/pictures/e29184fe-8649-4b2a-8aaa-ef6c583ff1d0.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 bed",
+                   "1 bedroom"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1018720746",
+               "picture": "https://a0.muscache.com/im/pictures/34070345-fae3-405c-97ca-1cae86421c1c.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 bathroom"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1019211016",
+               "picture": "https://a0.muscache.com/im/pictures/f83a3558-fdf0-40fc-8dd4-26186fae572a.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 double bed"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1207638188",
+               "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-43635072/original/370d0fcc-cbe5-435a-9a04-4db66066e96a.jpeg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "Rated 4.8 out of 5 for cleanliness"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             }
+           ],
+           "contextualPicturesCount": 30,
+           "contextualPicturesPageInfo": {
+             "hasNextPage": true,
+             "endCursor": "NQ=="
+           },
+           "coordinate": {
+             "longitude": 15.19382,
+             "latitude": 60.94132
+           },
+           "formattedBadges": [],
+           "id": "43635072",
+           "isAutoTranslated": false,
+           "listingObjType": "REGULAR",
+           "localizedCityName": "Rättvik V",
+           "name": "Romantic houseboat in lake in the heart of Dalarna",
+           "primaryHostPassport": null,
+           "pdpType": "MARKETPLACE",
+           "roomTypeCategory": "entire_home",
+           "roomTypeId": null,
+           "structuredContent": {
+             "primaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "4,107 miles away",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "secondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "11–16 May",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapPrimaryLine": null,
+             "mapSecondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "11–16 May",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapCategoryInfo": [],
+             "distance": null
+           },
+           "tierId": 0,
+           "title": "Rättvik V, Sweden",
+           "titleLocale": "en"
+         },
+         "pricingQuote": {
+           "structuredStayDisplayPrice": {
+             "primaryLine": {
+               "accessibilityLabel": "$1,424 total",
+               "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+               "concatQualifierLeft": false,
+               "price": "$1,424",
+               "qualifier": "total",
+               "trailingContent": null,
+               "shortQualifier": "total"
+             },
+             "secondaryLine": null,
+             "explanationData": {
+               "title": "Price breakdown",
+               "priceDetails": [
+                 {
+                   "items": [
+                     {
+                       "description": "$244 x 5 nights",
+                       "priceString": "$1,218"
+                     },
+                     {
+                       "description": "Airbnb service fee",
+                       "priceString": "$206"
+                     }
+                   ],
+                   "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                   "shouldRenderTopBorder": false
+                 }
+               ]
+             },
+             "explanationDataDisplayPosition": "PRIMARY_LINE"
+           }
+         },
+         "listingParamOverrides": {
+           "adults": 1,
+           "children": 0,
+           "infants": 0,
+           "checkin": "2023-05-11",
+           "checkout": "2023-05-16",
+           "causeId": null,
+           "relaxedAmenityIds": null,
+           "categoryTag": null,
+           "pets": 0,
+           "splitStaysUuid": null,
+           "highlightType": null,
+           "enableM3PrivateRoom": false
+         }
+       },
+       {
+         "listing": {
+           "avgRatingLocalized": "4.78",
+           "avgRatingA11yLabel": "4.78 out of 5 average rating",
+           "city": "Nordmarka",
+           "contextualPictures": [
+             {
+               "id": "570420777",
+               "picture": "https://a0.muscache.com/im/pictures/337c7192-1e92-4814-b9b3-dee301e2d851.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "486891639",
+               "picture": "https://a0.muscache.com/im/pictures/637dca0f-1657-483f-9d5a-6d116540a410.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "9 beds",
+                   "2 bedrooms"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "570420649",
+               "picture": "https://a0.muscache.com/im/pictures/5ff7e86d-1369-4ebf-8ed4-7d3e5de64dc8.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "Toilet with sink"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "486891588",
+               "picture": "https://a0.muscache.com/im/pictures/5e8c9efa-acb8-4502-9457-02118c464279.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "8 bunk beds"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "570420512",
+               "picture": "https://a0.muscache.com/im/pictures/9b9def42-3c43-4fad-b0ad-7bc71b1c73ea.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "Rated 4.4 out of 5 for cleanliness"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "574390932",
+               "picture": "https://a0.muscache.com/im/pictures/0cf95840-f2cf-4868-b56f-8b67d5557963.jpg?im_w=720",
+               "caption": null
+             }
+           ],
+           "contextualPicturesCount": 30,
+           "contextualPicturesPageInfo": {
+             "hasNextPage": true,
+             "endCursor": "NQ=="
+           },
+           "coordinate": {
+             "longitude": 10.68441,
+             "latitude": 60.00568
+           },
+           "formattedBadges": [],
+           "id": "24695132",
+           "isAutoTranslated": false,
+           "listingObjType": "REGULAR",
+           "localizedCityName": "Nordmarka",
+           "name": "Rustic, Secluded Cabin in the Oslo Forest",
+           "primaryHostPassport": null,
+           "pdpType": "MARKETPLACE",
+           "roomTypeCategory": "entire_home",
+           "roomTypeId": null,
+           "structuredContent": {
+             "primaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "3,999 miles away",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "secondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "22–27 May",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapPrimaryLine": null,
+             "mapSecondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "22–27 May",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapCategoryInfo": [],
+             "distance": null
+           },
+           "tierId": 0,
+           "title": "Nordmarka, Norway",
+           "titleLocale": "en"
+         },
+         "pricingQuote": {
+           "structuredStayDisplayPrice": {
+             "primaryLine": {
+               "accessibilityLabel": "$655 total",
+               "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+               "concatQualifierLeft": false,
+               "price": "$655",
+               "qualifier": "total",
+               "trailingContent": null,
+               "shortQualifier": "total"
+             },
+             "secondaryLine": null,
+             "explanationData": {
+               "title": "Price breakdown",
+               "priceDetails": [
+                 {
+                   "items": [
+                     {
+                       "description": "$112 x 5 nights",
+                       "priceString": "$560"
+                     },
+                     {
+                       "description": "Airbnb service fee",
+                       "priceString": "$95"
+                     }
+                   ],
+                   "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                   "shouldRenderTopBorder": false
+                 }
+               ]
+             },
+             "explanationDataDisplayPosition": "PRIMARY_LINE"
+           }
+         },
+         "listingParamOverrides": {
+           "adults": 1,
+           "children": 0,
+           "infants": 0,
+           "checkin": "2023-05-22",
+           "checkout": "2023-05-27",
+           "causeId": null,
+           "relaxedAmenityIds": null,
+           "categoryTag": null,
+           "pets": 0,
+           "splitStaysUuid": null,
+           "highlightType": null,
+           "enableM3PrivateRoom": false
+         }
+       },
+       {
+         "listing": {
+           "avgRatingLocalized": "4.97",
+           "avgRatingA11yLabel": "4.97 out of 5 average rating",
+           "city": "Kullavik",
+           "contextualPictures": [
+             {
+               "id": "1052889934",
+               "picture": "https://a0.muscache.com/im/pictures/ccb54791-b4cd-4a04-a489-892d5be13cff.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "1057143472",
+               "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-24173392/original/b570ed5b-0560-4f9c-8ec8-9950c328c48a.jpeg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "2 beds",
+                   "2 bedrooms"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "937859106",
+               "picture": "https://a0.muscache.com/im/pictures/5fe862df-a7b4-4bc6-8999-cb4d14fdecae.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 bathroom"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1052890115",
+               "picture": "https://a0.muscache.com/im/pictures/71e30706-90a4-4fdf-bac2-5c540f81dd12.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 queen bed",
+                   "1 sofa bed"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1052890136",
+               "picture": "https://a0.muscache.com/im/pictures/8f58649a-efc6-4ab0-a055-e08788ea6a16.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "Rated 4.9 out of 5 for cleanliness"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1052890315",
+               "picture": "https://a0.muscache.com/im/pictures/2144e142-2f90-4a20-9965-6bdc09607572.jpg?im_w=720",
+               "caption": null
+             }
+           ],
+           "contextualPicturesCount": 23,
+           "contextualPicturesPageInfo": {
+             "hasNextPage": true,
+             "endCursor": "NQ=="
+           },
+           "coordinate": {
+             "longitude": 11.918,
+             "latitude": 57.53403
+           },
+           "formattedBadges": [],
+           "id": "24173392",
+           "isAutoTranslated": false,
+           "listingObjType": "REGULAR",
+           "localizedCityName": "Kullavik",
+           "name": "Unique location by the sea",
+           "primaryHostPassport": null,
+           "pdpType": "MARKETPLACE",
+           "roomTypeCategory": "entire_home",
+           "roomTypeId": null,
+           "structuredContent": {
+             "primaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "4,115 miles away",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "secondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "23–28 Sept",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapPrimaryLine": null,
+             "mapSecondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "23–28 Sept",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapCategoryInfo": [],
+             "distance": null
+           },
+           "tierId": 0,
+           "title": "Kullavik, Sweden",
+           "titleLocale": "en"
+         },
+         "pricingQuote": {
+           "structuredStayDisplayPrice": {
+             "primaryLine": {
+               "accessibilityLabel": "$1,243 total",
+               "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+               "concatQualifierLeft": false,
+               "price": "$1,243",
+               "qualifier": "total",
+               "trailingContent": null,
+               "shortQualifier": "total"
+             },
+             "secondaryLine": null,
+             "explanationData": {
+               "title": "Price breakdown",
+               "priceDetails": [
+                 {
+                   "items": [
+                     {
+                       "description": "$171 x 5 nights",
+                       "priceString": "$854"
+                     },
+                     {
+                       "description": "Cleaning fee",
+                       "priceString": "$110"
+                     },
+                     {
+                       "description": "Airbnb service fee",
+                       "priceString": "$163"
+                     },
+                     {
+                       "description": "Taxes",
+                       "priceString": "$116"
+                     }
+                   ],
+                   "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                   "shouldRenderTopBorder": false
+                 }
+               ]
+             },
+             "explanationDataDisplayPosition": "PRIMARY_LINE"
+           }
+         },
+         "listingParamOverrides": {
+           "adults": 1,
+           "children": 0,
+           "infants": 0,
+           "checkin": "2023-09-23",
+           "checkout": "2023-09-28",
+           "causeId": null,
+           "relaxedAmenityIds": null,
+           "categoryTag": null,
+           "pets": 0,
+           "splitStaysUuid": null,
+           "highlightType": null,
+           "enableM3PrivateRoom": false
+         }
+       },
+       {
+         "listing": {
+           "avgRatingLocalized": "4.91",
+           "avgRatingA11yLabel": "4.91 out of 5 average rating",
+           "city": "Enontekiö",
+           "contextualPictures": [
+             {
+               "id": "1305136540",
+               "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-53735295/original/6bb82ecc-c148-4817-a8f4-ed12ce6e1372.jpeg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "1305137854",
+               "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-53735295/original/e76c6b7f-5ed5-48ca-ac0f-fbd5a120530e.jpeg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "1305136542",
+               "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-53735295/original/390697a7-80d1-4ac7-9746-57742790139e.jpeg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 bathroom"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1305136538",
+               "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-53735295/original/4af48acf-67b1-49f9-9e41-6cf885fa0339.jpeg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "2 single beds"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1542337533",
+               "picture": "https://a0.muscache.com/im/pictures/a55a765a-0803-4d09-9346-dbf759dac48d.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "Rated 5 out of 5 for cleanliness"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1542337296",
+               "picture": "https://a0.muscache.com/im/pictures/8be87d48-c963-46c5-97f9-12e1b8985c09.jpg?im_w=720",
+               "caption": null
+             }
+           ],
+           "contextualPicturesCount": 24,
+           "contextualPicturesPageInfo": {
+             "hasNextPage": true,
+             "endCursor": "NQ=="
+           },
+           "coordinate": {
+             "longitude": 20.89623,
+             "latitude": 69.0061
+           },
+           "formattedBadges": [],
+           "id": "53735295",
+           "isAutoTranslated": true,
+           "listingObjType": "REGULAR",
+           "localizedCityName": "Enontekiö",
+           "name": "Ghost's cottage",
+           "primaryHostPassport": null,
+           "pdpType": "MARKETPLACE",
+           "roomTypeCategory": "entire_home",
+           "roomTypeId": null,
+           "structuredContent": {
+             "primaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "3,990 miles away",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "secondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "31 Jul – 5 Aug",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapPrimaryLine": null,
+             "mapSecondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "31 Jul – 5 Aug",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapCategoryInfo": [],
+             "distance": null
+           },
+           "tierId": 0,
+           "title": "Enontekiö, Finland",
+           "titleLocale": "en-GB"
+         },
+         "pricingQuote": {
+           "structuredStayDisplayPrice": {
+             "primaryLine": {
+               "accessibilityLabel": "$718 total",
+               "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+               "concatQualifierLeft": false,
+               "price": "$718",
+               "qualifier": "total",
+               "trailingContent": null,
+               "shortQualifier": "total"
+             },
+             "secondaryLine": null,
+             "explanationData": {
+               "title": "Price breakdown",
+               "priceDetails": [
+                 {
+                   "items": [
+                     {
+                       "description": "$123 x 5 nights",
+                       "priceString": "$614"
+                     },
+                     {
+                       "description": "Airbnb service fee",
+                       "priceString": "$104"
+                     }
+                   ],
+                   "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                   "shouldRenderTopBorder": false
+                 }
+               ]
+             },
+             "explanationDataDisplayPosition": "PRIMARY_LINE"
+           }
+         },
+         "listingParamOverrides": {
+           "adults": 1,
+           "children": 0,
+           "infants": 0,
+           "checkin": "2023-07-31",
+           "checkout": "2023-08-05",
+           "causeId": null,
+           "relaxedAmenityIds": null,
+           "categoryTag": null,
+           "pets": 0,
+           "splitStaysUuid": null,
+           "highlightType": null,
+           "enableM3PrivateRoom": false
+         }
+       },
+       {
+         "listing": {
+           "avgRatingLocalized": "4.75",
+           "avgRatingA11yLabel": "4.75 out of 5 average rating",
+           "city": "Tromsø",
+           "contextualPictures": [
+             {
+               "id": "355029411",
+               "picture": "https://a0.muscache.com/im/pictures/b81202d6-6d06-4a23-9adb-3d735b3eb138.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "443077384",
+               "picture": "https://a0.muscache.com/im/pictures/fcdaba72-7297-4f60-92a4-87758ad07f26.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "1063290715",
+               "picture": "https://a0.muscache.com/im/pictures/b09a1edd-b676-4b70-bced-48a60422afcf.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 bed",
+                   "Studio"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1063291153",
+               "picture": "https://a0.muscache.com/im/pictures/26ceff2e-0ab9-4c1d-96fc-6b0c5ed8850f.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "0 bathrooms"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1063291195",
+               "picture": "https://a0.muscache.com/im/pictures/9384f864-ced4-451c-8113-a5d96293185f.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "Rated 4.7 out of 5 for cleanliness"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1044006161",
+               "picture": "https://a0.muscache.com/im/pictures/d0173c77-7ccf-4cee-ac3f-fcb9a54eb744.jpg?im_w=720",
+               "caption": null
+             }
+           ],
+           "contextualPicturesCount": 27,
+           "contextualPicturesPageInfo": {
+             "hasNextPage": true,
+             "endCursor": "NQ=="
+           },
+           "coordinate": {
+             "longitude": 18.701,
+             "latitude": 69.56181
+           },
+           "formattedBadges": [],
+           "id": "19308366",
+           "isAutoTranslated": false,
+           "listingObjType": "REGULAR",
+           "localizedCityName": "Tromsø",
+           "name": "Cabin by the sea",
+           "primaryHostPassport": null,
+           "pdpType": "MARKETPLACE",
+           "roomTypeCategory": "entire_home",
+           "roomTypeId": null,
+           "structuredContent": {
+             "primaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "3,925 miles away",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "secondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "7–12 May",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapPrimaryLine": null,
+             "mapSecondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "7–12 May",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapCategoryInfo": [],
+             "distance": null
+           },
+           "tierId": 0,
+           "title": "Tromsø, Norway",
+           "titleLocale": "en"
+         },
+         "pricingQuote": {
+           "structuredStayDisplayPrice": {
+             "primaryLine": {
+               "accessibilityLabel": "$311 total",
+               "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+               "concatQualifierLeft": false,
+               "price": "$311",
+               "qualifier": "total",
+               "trailingContent": null,
+               "shortQualifier": "total"
+             },
+             "secondaryLine": null,
+             "explanationData": {
+               "title": "Price breakdown",
+               "priceDetails": [
+                 {
+                   "items": [
+                     {
+                       "description": "$48 x 5 nights",
+                       "priceString": "$238"
+                     },
+                     {
+                       "description": "Cleaning fee",
+                       "priceString": "$28"
+                     },
+                     {
+                       "description": "Airbnb service fee",
+                       "priceString": "$45"
+                     }
+                   ],
+                   "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                   "shouldRenderTopBorder": false
+                 }
+               ]
+             },
+             "explanationDataDisplayPosition": "PRIMARY_LINE"
+           }
+         },
+         "listingParamOverrides": {
+           "adults": 1,
+           "children": 0,
+           "infants": 0,
+           "checkin": "2023-05-07",
+           "checkout": "2023-05-12",
+           "causeId": null,
+           "relaxedAmenityIds": null,
+           "categoryTag": null,
+           "pets": 0,
+           "splitStaysUuid": null,
+           "highlightType": null,
+           "enableM3PrivateRoom": false
+         }
+       },
+       {
+         "listing": {
+           "avgRatingLocalized": "4.97",
+           "avgRatingA11yLabel": "4.97 out of 5 average rating",
+           "city": "Sēja",
+           "contextualPictures": [
+             {
+               "id": "999211231",
+               "picture": "https://a0.muscache.com/im/pictures/8dec2f7c-1c3e-402e-baea-4fd72af59621.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "1549331788",
+               "picture": "https://a0.muscache.com/im/pictures/1c1c4008-d617-4e9f-b5e3-aa38bc8c5c9a.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "1060615898",
+               "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-43105686/original/b87b8ba8-d3d8-4567-8aa0-ce2a8e8a0dea.jpeg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "2 beds",
+                   "1 bedroom"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1060615883",
+               "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-43105686/original/98e5f894-0f4e-45a0-932f-9d87f879ad6b.jpeg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 bathroom"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1060615891",
+               "picture": "https://a0.muscache.com/im/pictures/miso/Hosting-43105686/original/22395d93-ea69-491b-bc69-925f01ff90ff.jpeg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 double bed",
+                   "1 sofa bed"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "998105691",
+               "picture": "https://a0.muscache.com/im/pictures/66f01f54-2cd8-4c5c-9d84-eb5f1861939c.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "Rated 5 out of 5 for cleanliness"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             }
+           ],
+           "contextualPicturesCount": 30,
+           "contextualPicturesPageInfo": {
+             "hasNextPage": true,
+             "endCursor": "NQ=="
+           },
+           "coordinate": {
+             "longitude": 24.58782,
+             "latitude": 57.27177
+           },
+           "formattedBadges": [],
+           "id": "43105686",
+           "isAutoTranslated": false,
+           "listingObjType": "REGULAR",
+           "localizedCityName": "Sēja",
+           "name": "The Black A-Frame",
+           "primaryHostPassport": null,
+           "pdpType": "MARKETPLACE",
+           "roomTypeCategory": "entire_home",
+           "roomTypeId": null,
+           "structuredContent": {
+             "primaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "4,524 miles away",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "secondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "8–13 May",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapPrimaryLine": null,
+             "mapSecondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "8–13 May",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapCategoryInfo": [],
+             "distance": null
+           },
+           "tierId": 0,
+           "title": "Sēja, Latvia",
+           "titleLocale": "en"
+         },
+         "pricingQuote": {
+           "structuredStayDisplayPrice": {
+             "primaryLine": {
+               "accessibilityLabel": "$1,001 total",
+               "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+               "concatQualifierLeft": false,
+               "price": "$1,001",
+               "qualifier": "total",
+               "trailingContent": null,
+               "shortQualifier": "total"
+             },
+             "secondaryLine": null,
+             "explanationData": {
+               "title": "Price breakdown",
+               "priceDetails": [
+                 {
+                   "items": [
+                     {
+                       "description": "$165 x 5 nights",
+                       "priceString": "$823"
+                     },
+                     {
+                       "description": "Cleaning fee",
+                       "priceString": "$33"
+                     },
+                     {
+                       "description": "Airbnb service fee",
+                       "priceString": "$145"
+                     }
+                   ],
+                   "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                   "shouldRenderTopBorder": false
+                 }
+               ]
+             },
+             "explanationDataDisplayPosition": "PRIMARY_LINE"
+           }
+         },
+         "listingParamOverrides": {
+           "adults": 1,
+           "children": 0,
+           "infants": 0,
+           "checkin": "2023-05-08",
+           "checkout": "2023-05-13",
+           "causeId": null,
+           "relaxedAmenityIds": null,
+           "categoryTag": null,
+           "pets": 0,
+           "splitStaysUuid": null,
+           "highlightType": null,
+           "enableM3PrivateRoom": false
+         }
+       },
+       {
+         "listing": {
+           "avgRatingLocalized": "4.99",
+           "avgRatingA11yLabel": "4.99 out of 5 average rating",
+           "city": "Savonlinna",
+           "contextualPictures": [
+             {
+               "id": "779293619",
+               "picture": "https://a0.muscache.com/im/pictures/a5b3e9cc-1f10-475e-9dbe-9c2f6b5cd9b6.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "779293614",
+               "picture": "https://a0.muscache.com/im/pictures/f7be4b66-d6ad-4e47-95ce-7312403d155f.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "779293455",
+               "picture": "https://a0.muscache.com/im/pictures/cd27bcd5-82a8-477c-92f9-5e99910b2e34.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "3 beds",
+                   "3 bedrooms"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "779293249",
+               "picture": "https://a0.muscache.com/im/pictures/3fdacec6-c9e6-4d7b-96b8-00e7f28aa845.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 bathroom"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "964460935",
+               "picture": "https://a0.muscache.com/im/pictures/f5edaa70-22d3-4237-bfc0-fabd05181b3a.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 queen bed",
+                   "1 double bed",
+                   "more"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "779293417",
+               "picture": "https://a0.muscache.com/im/pictures/7c64a0b1-4ad6-4f3a-b394-fcb1dd46153d.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "Rated 4.9 out of 5 for cleanliness"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             }
+           ],
+           "contextualPicturesCount": 30,
+           "contextualPicturesPageInfo": {
+             "hasNextPage": true,
+             "endCursor": "NQ=="
+           },
+           "coordinate": {
+             "longitude": 29.15625,
+             "latitude": 62.19766
+           },
+           "formattedBadges": [],
+           "id": "35599157",
+           "isAutoTranslated": false,
+           "listingObjType": "REGULAR",
+           "localizedCityName": "Savonlinna",
+           "name": "Between fishes – our house on the lake in Finland",
+           "primaryHostPassport": null,
+           "pdpType": "MARKETPLACE",
+           "roomTypeCategory": "entire_home",
+           "roomTypeId": null,
+           "structuredContent": {
+             "primaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "4,444 miles away",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "secondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "9–14 Jun",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapPrimaryLine": null,
+             "mapSecondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "9–14 Jun",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapCategoryInfo": [],
+             "distance": null
+           },
+           "tierId": 0,
+           "title": "Savonlinna, Finland",
+           "titleLocale": "en"
+         },
+         "pricingQuote": {
+           "structuredStayDisplayPrice": {
+             "primaryLine": {
+               "accessibilityLabel": "$821 total",
+               "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+               "concatQualifierLeft": false,
+               "price": "$821",
+               "qualifier": "total",
+               "trailingContent": null,
+               "shortQualifier": "total"
+             },
+             "secondaryLine": null,
+             "explanationData": {
+               "title": "Price breakdown",
+               "priceDetails": [
+                 {
+                   "items": [
+                     {
+                       "description": "$122 x 5 nights",
+                       "priceString": "$608"
+                     },
+                     {
+                       "description": "Cleaning fee",
+                       "priceString": "$94"
+                     },
+                     {
+                       "description": "Airbnb service fee",
+                       "priceString": "$119"
+                     }
+                   ],
+                   "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                   "shouldRenderTopBorder": false
+                 }
+               ]
+             },
+             "explanationDataDisplayPosition": "PRIMARY_LINE"
+           }
+         },
+         "listingParamOverrides": {
+           "adults": 1,
+           "children": 0,
+           "infants": 0,
+           "checkin": "2023-06-09",
+           "checkout": "2023-06-14",
+           "causeId": null,
+           "relaxedAmenityIds": null,
+           "categoryTag": null,
+           "pets": 0,
+           "splitStaysUuid": null,
+           "highlightType": null,
+           "enableM3PrivateRoom": false
+         }
+       },
+       {
+         "listing": {
+           "avgRatingLocalized": "4.97",
+           "avgRatingA11yLabel": "4.97 out of 5 average rating",
+           "city": "Vestvågøy",
+           "contextualPictures": [
+             {
+               "id": "1000397653",
+               "picture": "https://a0.muscache.com/im/pictures/9b0060ef-e966-4113-ab56-e584bcd3157e.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "1015196394",
+               "picture": "https://a0.muscache.com/im/pictures/8188cded-8fd4-441a-addd-8e5f830a707c.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "1505355369",
+               "picture": "https://a0.muscache.com/im/pictures/95b0bd1a-e0b3-4c90-8401-76be684303e7.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 bathroom"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1270547556",
+               "picture": "https://a0.muscache.com/im/pictures/a2f526ba-a647-4ee1-8082-b01dfdfcc6ed.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "2 double beds",
+                   "1 single bed",
+                   "more"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1548737894",
+               "picture": "https://a0.muscache.com/im/pictures/b851c6cc-25e2-460c-88e5-89e336b61493.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "Rated 5 out of 5 for cleanliness"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1505355062",
+               "picture": "https://a0.muscache.com/im/pictures/c117d0b1-008a-4607-93fe-7e6814458900.jpg?im_w=720",
+               "caption": null
+             }
+           ],
+           "contextualPicturesCount": 30,
+           "contextualPicturesPageInfo": {
+             "hasNextPage": true,
+             "endCursor": "NQ=="
+           },
+           "coordinate": {
+             "longitude": 13.62497,
+             "latitude": 68.10523
+           },
+           "formattedBadges": [],
+           "id": "40840925",
+           "isAutoTranslated": false,
+           "listingObjType": "REGULAR",
+           "localizedCityName": "Vestvågøy",
+           "name": "PRIVATE NEWLY BUILT WATERFRONT CABIN IN LOFOTEN",
+           "primaryHostPassport": null,
+           "pdpType": "MARKETPLACE",
+           "roomTypeCategory": "entire_home",
+           "roomTypeId": null,
+           "structuredContent": {
+             "primaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "3,851 miles away",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "secondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "20–25 Aug",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapPrimaryLine": null,
+             "mapSecondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "20–25 Aug",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapCategoryInfo": [],
+             "distance": null
+           },
+           "tierId": 0,
+           "title": "Vestvågøy, Norway",
+           "titleLocale": "en"
+         },
+         "pricingQuote": {
+           "structuredStayDisplayPrice": {
+             "primaryLine": {
+               "accessibilityLabel": "$1,551 total",
+               "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+               "concatQualifierLeft": false,
+               "price": "$1,551",
+               "qualifier": "total",
+               "trailingContent": null,
+               "shortQualifier": "total"
+             },
+             "secondaryLine": null,
+             "explanationData": {
+               "title": "Price breakdown",
+               "priceDetails": [
+                 {
+                   "items": [
+                     {
+                       "description": "$243 x 5 nights",
+                       "priceString": "$1,214"
+                     },
+                     {
+                       "description": "Cleaning fee",
+                       "priceString": "$112"
+                     },
+                     {
+                       "description": "Airbnb service fee",
+                       "priceString": "$225"
+                     }
+                   ],
+                   "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                   "shouldRenderTopBorder": false
+                 }
+               ]
+             },
+             "explanationDataDisplayPosition": "PRIMARY_LINE"
+           }
+         },
+         "listingParamOverrides": {
+           "adults": 1,
+           "children": 0,
+           "infants": 0,
+           "checkin": "2023-08-20",
+           "checkout": "2023-08-25",
+           "causeId": null,
+           "relaxedAmenityIds": null,
+           "categoryTag": null,
+           "pets": 0,
+           "splitStaysUuid": null,
+           "highlightType": null,
+           "enableM3PrivateRoom": false
+         }
+       },
+       {
+         "listing": {
+           "avgRatingLocalized": "4.79",
+           "avgRatingA11yLabel": "4.79 out of 5 average rating",
+           "city": "Darżkowo",
+           "contextualPictures": [
+             {
+               "id": "54368419",
+               "picture": "https://a0.muscache.com/im/pictures/100635187/b2d492c8_original.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "54368414",
+               "picture": "https://a0.muscache.com/im/pictures/100634719/721eaf96_original.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "602062101",
+               "picture": "https://a0.muscache.com/im/pictures/1b8bff47-d227-4c2d-bb75-0138044b4c54.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "2 beds",
+                   "2 bedrooms"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "54368418",
+               "picture": "https://a0.muscache.com/im/pictures/100635158/026d407a_original.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 bathroom"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "93902194",
+               "picture": "https://a0.muscache.com/im/pictures/950faf20-0ff4-4107-8ada-919d7446f0b6.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "Rated 4.3 out of 5 for cleanliness"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "93897856",
+               "picture": "https://a0.muscache.com/im/pictures/59385fa8-166a-4fa4-8198-9c5eb159b481.jpg?im_w=720",
+               "caption": null
+             }
+           ],
+           "contextualPicturesCount": 30,
+           "contextualPicturesPageInfo": {
+             "hasNextPage": true,
+             "endCursor": "NQ=="
+           },
+           "coordinate": {
+             "longitude": 17.16452,
+             "latitude": 54.28603
+           },
+           "formattedBadges": [],
+           "id": "7899197",
+           "isAutoTranslated": false,
+           "listingObjType": "REGULAR",
+           "localizedCityName": "Darżkowo",
+           "name": "hut in the mid. of nowhere + priv pond+3 ha",
+           "primaryHostPassport": null,
+           "pdpType": "MARKETPLACE",
+           "roomTypeCategory": "entire_home",
+           "roomTypeId": null,
+           "structuredContent": {
+             "primaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "4,404 miles away",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "secondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "20–25 May",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapPrimaryLine": null,
+             "mapSecondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "20–25 May",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapCategoryInfo": [],
+             "distance": null
+           },
+           "tierId": 0,
+           "title": "Darżkowo, Poland",
+           "titleLocale": "en"
+         },
+         "pricingQuote": {
+           "structuredStayDisplayPrice": {
+             "primaryLine": {
+               "accessibilityLabel": "$650 total",
+               "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+               "concatQualifierLeft": false,
+               "price": "$650",
+               "qualifier": "total",
+               "trailingContent": null,
+               "shortQualifier": "total"
+             },
+             "secondaryLine": null,
+             "explanationData": {
+               "title": "Price breakdown",
+               "priceDetails": [
+                 {
+                   "items": [
+                     {
+                       "description": "$108 x 5 nights",
+                       "priceString": "$542"
+                     },
+                     {
+                       "description": "Cleaning fee",
+                       "priceString": "$14"
+                     },
+                     {
+                       "description": "Airbnb service fee",
+                       "priceString": "$94"
+                     }
+                   ],
+                   "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                   "shouldRenderTopBorder": false
+                 }
+               ]
+             },
+             "explanationDataDisplayPosition": "PRIMARY_LINE"
+           }
+         },
+         "listingParamOverrides": {
+           "adults": 1,
+           "children": 0,
+           "infants": 0,
+           "checkin": "2023-05-20",
+           "checkout": "2023-05-25",
+           "causeId": null,
+           "relaxedAmenityIds": null,
+           "categoryTag": null,
+           "pets": 0,
+           "splitStaysUuid": null,
+           "highlightType": null,
+           "enableM3PrivateRoom": false
+         }
+       },
+       {
+         "listing": {
+           "avgRatingLocalized": "4.96",
+           "avgRatingA11yLabel": "4.96 out of 5 average rating",
+           "city": "Pudasjärvi",
+           "contextualPictures": [
+             {
+               "id": "1306422815",
+               "picture": "https://a0.muscache.com/im/pictures/c7027484-5906-4481-9ac7-b2a75e3720c3.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "1636741239",
+               "picture": "https://a0.muscache.com/im/pictures/edf116bd-736a-4001-b76e-adc7d8e2fda3.jpg?im_w=720",
+               "caption": null
+             },
+             {
+               "id": "1306422832",
+               "picture": "https://a0.muscache.com/im/pictures/1d4f882f-53c7-440d-b654-a612f87e2a31.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "4 beds",
+                   "2 bedrooms"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1306865192",
+               "picture": "https://a0.muscache.com/im/pictures/25972226-733c-4e17-8582-2e096f0a3da3.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1.5 bathrooms"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1360180004",
+               "picture": "https://a0.muscache.com/im/pictures/5c321209-934f-4732-a6fa-9cc9592d3cbc.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "1 queen bed",
+                   "2 single beds",
+                   "more"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             },
+             {
+               "id": "1349658648",
+               "picture": "https://a0.muscache.com/im/pictures/2f74069b-4ec6-4b8e-bfdc-0bcb01c4ffb7.jpg?im_w=720",
+               "caption": {
+                 "kickerBadge": null,
+                 "messages": [
+                   "Rated 4.9 out of 5 for cleanliness"
+                 ],
+                 "textColor": null,
+                 "formattedMessages": null
+               }
+             }
+           ],
+           "contextualPicturesCount": 30,
+           "contextualPicturesPageInfo": {
+             "hasNextPage": true,
+             "endCursor": "NQ=="
+           },
+           "coordinate": {
+             "longitude": 27.61273,
+             "latitude": 65.61604
+           },
+           "formattedBadges": [],
+           "id": "53895975",
+           "isAutoTranslated": false,
+           "listingObjType": "REGULAR",
+           "localizedCityName": "Pudasjärvi",
+           "name": "Villa Huikonen",
+           "primaryHostPassport": null,
+           "pdpType": "MARKETPLACE",
+           "roomTypeCategory": "entire_home",
+           "roomTypeId": null,
+           "structuredContent": {
+             "primaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "4,265 miles away",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "secondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "5–10 May",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapPrimaryLine": null,
+             "mapSecondaryLine": [
+               {
+                 "type": null,
+                 "headline": null,
+                 "body": "5–10 May",
+                 "bodyType": null,
+                 "bodyA11yLabel": null,
+                 "fontWeight": null
+               }
+             ],
+             "mapCategoryInfo": [],
+             "distance": null
+           },
+           "tierId": 0,
+           "title": "Pudasjärvi, Finland",
+           "titleLocale": "fi"
+         },
+         "pricingQuote": {
+           "structuredStayDisplayPrice": {
+             "primaryLine": {
+               "accessibilityLabel": "$1,344 total",
+               "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+               "concatQualifierLeft": false,
+               "price": "$1,344",
+               "qualifier": "total",
+               "trailingContent": null,
+               "shortQualifier": "total"
+             },
+             "secondaryLine": null,
+             "explanationData": {
+               "title": "Price breakdown",
+               "priceDetails": [
+                 {
+                   "items": [
+                     {
+                       "description": "$230 x 5 nights",
+                       "priceString": "$1,149"
+                     },
+                     {
+                       "description": "Airbnb service fee",
+                       "priceString": "$195"
+                     }
+                   ],
+                   "displayComponentType": "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                   "shouldRenderTopBorder": false
+                 }
+               ]
+             },
+             "explanationDataDisplayPosition": "PRIMARY_LINE"
+           }
+         },
+         "listingParamOverrides": {
+           "adults": 1,
+           "children": 0,
+           "infants": 0,
+           "checkin": "2023-05-05",
+           "checkout": "2023-05-10",
+           "causeId": null,
+           "relaxedAmenityIds": null,
+           "categoryTag": null,
+           "pets": 0,
+           "splitStaysUuid": null,
+           "highlightType": null,
+           "enableM3PrivateRoom": false
+         }
+       }
+     ],
+     "nextPageCursor": "eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoyMCwidmVyc2lvbiI6MX0="
+   }
+ }

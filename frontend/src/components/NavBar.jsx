@@ -1,20 +1,23 @@
-import { DateRange } from 'react-date-range';
+// import { DateRange } from 'react-date-range';
 import {useState} from 'react'
 import 'react-date-range/dist/styles.css'; // main css file
 import 'react-date-range/dist/theme/default.css'; // theme css file
+import Home from './Home';
 
 
-const NavBar = () => {
-    const [date, setDate] = useState([
-        {
-          startDate: new Date(),
-          endDate: null,
-          key: 'selection'
-        }
-      ]);
+const NavBar = ({cardLists}) => {
+    // const [date, setDate] = useState([
+    //     {
+    //       startDate: new Date(),
+    //       endDate: null,
+    //       key: 'selection'
+    //     }
+    //   ]);
 
-    const search = (e)=>{
-        console.log(e.target.value);
+    const [query, setQuery] = useState("");
+
+    const search = (data)=>{
+        return data.filter(card => card.listing.title.toLowerCase().includes(query));
     }
 
     return ( 
@@ -27,7 +30,7 @@ const NavBar = () => {
                 <div className="relative top-2.5">
                     {/* <div className="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
                     </div> */}
-                    <input type="search" onChange={search} id="default-search" className="block w-full p-4 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Search by location" required/>
+                    <input type="search" onChange={(e)=>setQuery(e.target.value)} id="default-search" className="block w-full p-4 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Search by location" required/>
                         <button type="submit">
                         <svg aria-hidden="true" className="absolute right-2.5 top-4 w-6 h-6 text-white rounded-md p-1 bg-blue-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
                         </button>
@@ -50,6 +53,8 @@ const NavBar = () => {
                     </div>
                 </div>
             </div>
+            {/* <Home data={search(cardLists)}/> */}
+
         </div>
      );
 }
